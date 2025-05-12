@@ -1,4 +1,4 @@
-## Hi there 👋
+olaa seja bem-vindo(a) ao meu perfil, me chamo Débora e sou aluna do 1 ano do ensino medio 
 
 <!--
 **debora-08/debora-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
